@@ -22,32 +22,32 @@ Fetches and displays the latest news articles. Responsive design with a mobile-f
 
 src 
 ├── app <br/>
-│    ├── about 
-│    │   └── page.jsx 
-│    ├── contact 
-│    │   └── page.jsx 
-│    ├── fonts 
-│    │   ├── GeistMonoVF.woff 
-│    │   └── GeistVF.woff 
-│    ├── news 
-│    │   └── [id] 
-│    │        └── page.jsx 
-│    ├── favicon.ico 
-│    ├── globals.css 
-│    ├── layout.jsx 
-│    └── page.jsx 
-├── assets 
-├── components 
-├── lib 
-├── .eslintrc.json 
-├── .gitignore 
-├── README.md 
-├── components.json 
-├── jsconfig.json 
-├── next.config.mjs 
-├── package-lock.json 
-├── package.json 
-├── postcss.config.mjs 
+│    ├── about <br/>
+│    │   └── page.jsx <br/>
+│    ├── contact <br/>
+│    │   └── page.jsx <br/>
+│    ├── fonts <br/>
+│    │   ├── GeistMonoVF.woff <br/>
+│    │   └── GeistVF.woff <br/>
+│    ├── news <br/>
+│    │   └── [id] <br/>
+│    │        └── page.jsx <br/>
+│    ├── favicon.ico <br/>
+│    ├── globals.css <br/>
+│    ├── layout.jsx <br/>
+│    └── page.jsx <br/>
+├── assets <br/>
+├── components <br/>
+├── lib <br/>
+├── .eslintrc.json <br/>
+├── .gitignore <br/>
+├── README.md <br/>
+├── components.json <br/>
+├── jsconfig.json <br/>
+├── next.config.mjs <br/>
+├── package-lock.json <br/>
+├── package.json <br/>
+├── postcss.config.mjs <br/>
 └── tailwind.config.js
 
 ## Technology Used
