@@ -19,23 +19,23 @@ Check out the live demo of the application: Live [Demo](https://blarq.github.io/
 Fetches and displays the latest news articles. Responsive design with a mobile-first approach. Dark mode support. Reusable components for easy maintenance.
 
 # Folder Structure
-
+<prev>
 src 
 ├── app <br/>
-│      ├── about <br/>
-│      │   └── page.jsx <br/>
-│      ├── contact <br/>
-│      │   └── page.jsx <br/>
-│      ├── fonts <br/>
-│      │   ├── GeistMonoVF.woff <br/>
-│      │   └── GeistVF.woff <br/>
-│      ├── news <br/>
-│      │   └── [id] <br/>
-│      │        └── page.jsx <br/>
-│      ├── favicon.ico <br/>
-│      ├── globals.css <br/>
-│      ├── layout.jsx <br/>
-│      └── page.jsx <br/>
+│     ├── about <br/>
+│     │   └── page.jsx <br/>
+│     ├── contact <br/>
+│     │   └── page.jsx <br/>
+│     ├── fonts <br/>
+│     │   ├── GeistMonoVF.woff <br/>
+│     │   └── GeistVF.woff <br/>
+│     ├── news <br/>
+│     │   └── [id] <br/>
+│     │        └── page.jsx <br/>
+│     ├── favicon.ico <br/>
+│     ├── globals.css <br/>
+│     ├── layout.jsx <br/>
+│     └── page.jsx <br/>
 ├── assets <br/>
 ├── components <br/>
 ├── lib <br/>
@@ -49,7 +49,7 @@ src
 ├── package.json <br/>
 ├── postcss.config.mjs <br/>
 └── tailwind.config.js
-
+</prev>
 ## Technology Used
 
 Frontend: Next.js, React
