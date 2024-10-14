@@ -1,7 +1,7 @@
 
 # OLOFOFO
 
-Welcome to the Olofofo project! <br/> This is a Next.js application that serves as a news aggregator, showcasing the latest news articles. The project utilizes Tailwind CSS for styling and features a modular architecture for easy maintenance and scalability.
+Welcome to the Olofofo project! <br/><br/> This is a Next.js application that serves as a news aggregator, showcasing the latest news articles. The project utilizes Tailwind CSS for styling and features a modular architecture for easy maintenance and scalability.
 
 
 Demo
