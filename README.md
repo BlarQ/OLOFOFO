@@ -11,8 +11,8 @@ Check out the live demo of the application: Live [Demo](https://blarq.github.io/
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| White | ![#FFFFFF](https://via.placeholder.com/10/0a192f?text=+) #FFFFFF |
-| Dark Grey | ![#2D2A30](https://via.placeholder.com/10/f8f8f8?text=+) #2D2A30 |
+| White | ![#FFFFFF](https://via.placeholder.com/10/ffffff?text=+) #FFFFFF |
+| Dark Grey | ![#2D2A30](https://via.placeholder.com/10/2d2a30?text=+) #2D2A30 |
 
 #Features
 
@@ -21,7 +21,7 @@ Fetches and displays the latest news articles. Responsive design with a mobile-f
 # Folder Structure
 
 src 
-├── app 
+├── app <br/>
 │    ├── about 
 │    │   └── page.jsx 
 │    ├── contact 
