@@ -86,69 +86,69 @@ Open your browser and go to http://localhost:3000.
 
 ## Deployment
 
-To deploy this project run
+To deploy this project run <br/><br/>
 
-Installation Guide
-Prerequisites
-Ensure you have the following installed:
+Installation Guide<br/>
+Prerequisites<br/>
+Ensure you have the following installed:<br/><br/>
 
-Node.js (>= 14.x)
-npm or yarn
-Steps to Install
-Clone the Repository:
+Node.js (>= 14.x)<br/>
+npm or yarn<br/>
+Steps to Install<br/>
+Clone the Repository:<br/><br/>
 
-bash
-Copy code
-git clone https://github.com/BlarQ/olofofo
-cd TheTrendLuxe
-Install Dependencies:
+bash<br/>
+Copy code<br/>
+git clone https://github.com/BlarQ/olofofo<br/>
+cd olofofo<br/>
+Install Dependencies:<br/><br/>
 
-bash
-Copy code
-npm install
-Run the Development Server:
+bash<br/>
+Copy code<br/>
+npm install<br/>
+Run the Development Server:<br/><br/>
 
-bash
-Copy code
-npm run dev
-Open your browser and navigate to http://localhost:3000 to see the application running.
+bash<br/>
+Copy code<br/>
+npm run dev<br/>
+Open your browser and navigate to http://localhost:3000 to see the application running.<br/><br/>
 
 
-Deployment Instructions
-Vercel
-Login to Vercel: If you don't have an account, sign up at Vercel.
+Deployment Instructions<br/>
+Vercel<br/>
+Login to Vercel: If you don't have an account, sign up at Vercel.<br/><br/>
 
-Import Project:
+Import Project:<br/><br/>
 
-Click on "New Project".
-Select your Git repository.
-Configure Settings:
+Click on "New Project".<br/>
+Select your Git repository.<br/>
+Configure Settings:<br/><br/>
 
-Set the project name.
-Set environment variables in the Vercel dashboard.
-Deploy:
+Set the project name.<br/>
+Set environment variables in the Vercel dashboard.<br/>
+Deploy:<br/><br/>
 
-Click "Deploy" to start the deployment process.
-Other Hosting Providers
+Click "Deploy" to start the deployment process.<br/>
+Other Hosting Providers<br/>
 Refer to the specific hosting provider's documentation for detailed deployment steps.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+Contributions are welcome! If you'd like to contribute, please follow these steps: <br/><br/>
 
-Fork the repository.
-Create a new branch for your feature:
-bash
-Copy code
-git checkout -b feature/YourFeatureName
-Make your changes and commit them:
-bash
-Copy code
-git commit -m "Add some feature"
-Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeatureName
-Open a pull request.
-License
+Fork the repository.<br/>
+Create a new branch for your feature:<br/>
+bash<br/>
+Copy code<br/>
+git checkout -b feature/YourFeatureName<br/>
+Make your changes and commit them:<br/>
+bash<br/>
+Copy code<br/>
+git commit -m "Add some feature"<br/>
+Push to the branch:<br/>
+bash<br/>
+Copy code<br/>
+git push origin feature/YourFeatureName<br/>
+Open a pull request.<br/>
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
