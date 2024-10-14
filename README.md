@@ -12,19 +12,19 @@ Check out the live demo of the application: Live [Demo](https://blarq.github.io/
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | White | ![#FFFFFF](https://via.placeholder.com/10/ffffff?text=+) #FFFFFF |
-| Dark Grey | ![#2D2A30](https://via.placeholder.com/10/2d2a30?text=+) #2D2A30 |
+| Dark Grey | ![#2D2A30](https://via.placeholder.com/10/A9A9A9?text=+) #2D2A30 |
 
 #Features
 
 Fetches and displays the latest news articles. Responsive design with a mobile-first approach. Dark mode support. Reusable components for easy maintenance.
 
 # Folder Structure
-<prev>
+
 src 
 ├── app <br/>
-│     ├── about <br/>
-│     │   └── page.jsx <br/>
-│     ├── contact <br/>
+│ &nbsp;    ├── about <br/>
+│   &nbsp;  │   └── page.jsx <br/>
+│  &nbsp;   ├── contact <br/>
 │     │   └── page.jsx <br/>
 │     ├── fonts <br/>
 │     │   ├── GeistMonoVF.woff <br/>
@@ -49,7 +49,7 @@ src
 ├── package.json <br/>
 ├── postcss.config.mjs <br/>
 └── tailwind.config.js
-</prev>
+
 ## Technology Used
 
 Frontend: Next.js, React
