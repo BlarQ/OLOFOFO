@@ -20,7 +20,7 @@ Fetches and displays the latest news articles. Responsive design with a mobile-f
 
 # Folder Structure
 
-src 
+src <br/>
 ├── app <br/>
 │ &nbsp;&nbsp;    ├── about <br/>
 │   &nbsp;&nbsp;  │   └── page.jsx <br/>
