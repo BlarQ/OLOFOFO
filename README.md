@@ -22,20 +22,20 @@ Fetches and displays the latest news articles. Responsive design with a mobile-f
 
 src 
 ├── app <br/>
-│    ├── about <br/>
-│    │   └── page.jsx <br/>
-│    ├── contact <br/>
-│    │   └── page.jsx <br/>
-│    ├── fonts <br/>
-│    │   ├── GeistMonoVF.woff <br/>
-│    │   └── GeistVF.woff <br/>
-│    ├── news <br/>
-│    │   └── [id] <br/>
-│    │        └── page.jsx <br/>
-│    ├── favicon.ico <br/>
-│    ├── globals.css <br/>
-│    ├── layout.jsx <br/>
-│    └── page.jsx <br/>
+│      ├── about <br/>
+│      │   └── page.jsx <br/>
+│      ├── contact <br/>
+│      │   └── page.jsx <br/>
+│      ├── fonts <br/>
+│      │   ├── GeistMonoVF.woff <br/>
+│      │   └── GeistVF.woff <br/>
+│      ├── news <br/>
+│      │   └── [id] <br/>
+│      │        └── page.jsx <br/>
+│      ├── favicon.ico <br/>
+│      ├── globals.css <br/>
+│      ├── layout.jsx <br/>
+│      └── page.jsx <br/>
 ├── assets <br/>
 ├── components <br/>
 ├── lib <br/>
